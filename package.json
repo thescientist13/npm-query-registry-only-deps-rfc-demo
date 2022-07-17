@@ -11,5 +11,9 @@
     "url": "git+https://github.com/thescientist13/npm-query-tarball-test.git"
   },
   "author": "Owen Buckley <owen@thegreenhouse.io>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.4.0",
+    "eslint": "git+https://github.com/eslint/eslint.git"
+  }
 }
