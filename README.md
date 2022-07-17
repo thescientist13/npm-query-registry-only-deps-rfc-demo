@@ -20,9 +20,9 @@ It comes pre-installed with these dependencies, so that `query` can be tested in
 
 ## Testing
 
-1. Clone the npm CLI and [follow these steps](https://github.com/npm/cli/blob/latest/CONTRIBUTING.md#development) to get it running locally
+1. Clone the [npm CLI repo](https://github.com/npm/cli/) and [follow these steps](https://github.com/npm/cli/blob/latest/CONTRIBUTING.md#development) to get it running locally
 1. Run `npm . link`
-1. Clone this repo and run `npm ci`
+1. Clone [this repo](https://github.com/thescientist13/npm-query-tarball-test) and run `npm ci`
 
 You should now be able to run the `query` command in this repo, e.g.
 ```sh
